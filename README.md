@@ -17,9 +17,7 @@
 
 - [产品简介](#产品简介)
 - [规格参数](#规格参数)
-- [示例工程](#示例工程)
 - [仓库结构](#仓库结构)
-- [相关资料](#相关资料)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -44,13 +42,6 @@ OSPTEK **3.97 寸 480×800 TFT** 是一款 **MIPI** 接口显示模组，驱动�
 
 > 完整外形尺寸、FPC 定义、供电与时序以产品规格书 / 驱动手册为准。
 
-## 示例工程
-
-| 说明 | 路径 |
-| ---- | ---- |
-| ESP32-P4 · IDF 5 · AXS15260 MIPI + LVGL9 | [`examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9/) |
-| ESP32-P4 · IDF 5 · AXS15260 MIPI + LVGL9 · PPA 横屏 | [`examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9_ppa/) |
-
 ## 仓库结构
 
 ```text
@@ -60,13 +51,6 @@ OSPTEK **3.97 寸 480×800 TFT** 是一款 **MIPI** 接口显示模组，驱动�
 ├── images/
 └── examples/
 ```
-
-## 相关资料
-
-### 示例工程
-
-- [ESP32-P4 · AXS15260 MIPI + LVGL9](./examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9/)
-- [ESP32-P4 · AXS15260 MIPI + LVGL9 · PPA 横屏](./examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9_ppa/)
 
 ## 购买链接
 

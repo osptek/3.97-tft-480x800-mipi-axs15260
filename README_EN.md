@@ -17,9 +17,7 @@
 
 - [Overview](#overview)
 - [Specifications](#specifications)
-- [Sample projects](#sample-projects)
 - [Repository layout](#repository-layout)
-- [Resources](#resources)
 - [Buy](#buy)
 - [Support](#support)
 
@@ -44,13 +42,6 @@ Spec ID (repository name): `3.97-tft-480x800-mipi-axs15260`
 
 > Full outline, FPC definition, power, and timing follow the product datasheet / driver IC datasheet.
 
-## Sample projects
-
-| Description | Path |
-| ---- | ---- |
-| ESP32-P4 · IDF 5 · AXS15260 MIPI + LVGL9 | [`examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9/) |
-| ESP32-P4 · IDF 5 · AXS15260 MIPI + LVGL9 · PPA landscape | [`examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9_ppa/) |
-
 ## Repository layout
 
 ```text
@@ -60,13 +51,6 @@ Spec ID (repository name): `3.97-tft-480x800-mipi-axs15260`
 ├── images/
 └── examples/
 ```
-
-## Resources
-
-### Samples
-
-- [ESP32-P4 · AXS15260 MIPI + LVGL9](./examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9/)
-- [ESP32-P4 · AXS15260 MIPI + LVGL9 · PPA landscape](./examples/esp32p4-idf5_axs15260-mipi_esp-lvgl-port_lvgl9_ppa/)
 
 ## Buy
 
