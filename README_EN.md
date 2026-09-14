@@ -27,7 +27,7 @@
 
 OSPTEK **3.97″ 480×800 TFT** is a **MIPI** display module driven by **AXS15260**, with **AXS15260** touch.
 
-Spec ID (repository name): `3.97-tft-480x800-mipi-axs15260`
+Spec ID (repository name): `tft-3.97-480x800-mipi-axs15260`
 
 ## Specifications
 
@@ -45,7 +45,7 @@ Spec ID (repository name): `3.97-tft-480x800-mipi-axs15260`
 ## Repository layout
 
 ```text
-3.97-tft-480x800-mipi-axs15260/
+tft-3.97-480x800-mipi-axs15260/
 ├── README.md
 ├── README_EN.md
 ├── images/
